@@ -1,0 +1,1 @@
+public enum Direction { Up = 2, Down = 4, Left = 3, Right = 9 }
